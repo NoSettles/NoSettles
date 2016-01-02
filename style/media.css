@@ -1,0 +1,253 @@
+@media only screen and (max-width: 800px) {
+  .feedback-small {
+    width: 280px !important;
+  }
+
+  .fake-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .textbox {
+    zoom: 0.5;
+  }
+
+}
+
+@media only screen and (max-height: 1000px) and (max-width: 1100px) {
+
+  .pageMiddle {
+    width: 90%;
+  }
+
+
+  @media only screen and (max-width: 625px) {
+    .signup-form-pop {
+      height: 97%;
+      width: 100% !important;
+      overflow-y: hidden;
+    }
+
+    .login-signup {
+      padding-right: 10px;
+    }
+
+    .ism-slider .ism-slide-0 .ism-caption-1 {
+      font-size: 15px;
+    }
+
+    .ism-slider .ism-slide-1 .ism-caption-1 {
+      font-size: 15px;
+    }
+
+    .ism-slider .ism-slide-2 .ism-caption-1 {
+      font-size: 15px;
+    }
+
+    .ism-slider .ism-slide-3 .ism-caption-1 {
+      font-size: 15px;
+    }
+
+    .full-image-parallax {
+      background-position: 0 0, 0 0;
+    }
+
+    .searchMain:before {
+      width: 53px;
+      height: 53px;
+      line-height: 53px;
+      font-size: 20px;
+    }
+
+    .searchMain:hover:before {
+      width: 53px;
+      height: 53px;
+    }
+
+    .searchMainButton {
+      width: 53px;
+      height: 53px;
+    }
+
+    .searchTermMain {
+      border: 2px solid #21a1e1;
+      padding: 10px;
+    }
+
+    .med-large-font {
+      font-size: 25px !important;
+    }
+
+    .block-on-small {
+      display: block;
+    }
+
+    .max-width47 {
+      max-width: 95%;
+    }
+
+    .feedback-text {
+      transform: scale(0.8) rotate(-90deg);
+      right: -39px;
+    }
+  }
+
+  @media only screen and (max-width: 490px) {
+    .searchMain:before {
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      font-size: 15px;
+    }
+
+    .searchMain:hover:before {
+      width: 40px;
+      height: 40px;
+    }
+
+    .searchMainButton {
+      width: 40px;
+      height: 40px;
+    }
+
+    .searchTermMain {
+      border: 2px solid #21a1e1;
+      padding: 7px;
+    }
+
+    .med-large-font {
+      font-size: 20px !important;
+    }
+
+    .notif-menu:before {
+      right: 95px !important;
+    }
+
+    .med-large-font {
+      font-size: 20px !important;
+    }
+
+    .large-font {
+      font-size: 35px !important;
+    }
+
+    .huge-font {
+      font-size: 55px !important;
+    }
+
+    .img-parallax6 {
+      background-position: center;
+    }
+
+    .login-signup .med-btn {
+      padding: 10px 15px;
+      margin: 0 2px;
+      cursor: pointer;
+      font-size: 15px;
+    }
+
+    .login-signup {
+      display: inherit;
+      padding-top: 0;
+      transform: scale(0.8);
+    }
+
+    .login-signup .profile-icon {
+      position: relative;
+      top: 9px !important;
+    }
+
+    #logo {
+      width: 92px;
+      height: 30px;
+    }
+
+    span.slogan {
+      font-size: 10px;
+    }
+
+    footer a #logo {
+      margin-bottom: 0;
+    }
+
+    .media-small1 {
+      padding-top: 0px;
+    }
+
+    .media-show {
+      padding-top: 4px;
+      margin: 0 10px 0 5px;
+    }
+
+    .med-long-textbox, .med-long-btn, .tall-large-textbox{
+      width: 270px;
+    }
+
+    .photo-upld {
+      width: 270px;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+
+    .med-med-textbox, .med-box {
+      width: 230px;
+    }
+
+    .ism-slider .ism-slide-0 .ism-caption-1 {
+      font-size: 10px;
+    }
+
+    .ism-slider .ism-slide-1 .ism-caption-1 {
+      font-size: 10px;
+    }
+
+    .ism-slider .ism-slide-2 .ism-caption-1 {
+      font-size: 10px;
+    }
+
+    .ism-slider .ism-slide-3 .ism-caption-1 {
+      font-size: 10px;
+    }
+
+    .textbox {
+      zoom: 0.33;
+    }
+
+    .fake-img {
+      width: 75px;
+      height: 75px;
+      margin-right: 5px !important;
+    }
+
+    .postarea {
+      padding: 5px !important;
+    }
+
+    .sourcenav {
+      zoom: 0.7
+    }
+  }
+  @media only screen and (max-width: 356px) {
+
+    .parallax, .header-img-parallax {
+      margin-bottom: 480px;
+    }
+
+    .fancy-text-form {
+      margin: 15px 0;
+    }
+
+  }
+
+
+
+  .signup-form-pop {
+    width: 90%;
+  }
+
+
+
+
+
+
+}
